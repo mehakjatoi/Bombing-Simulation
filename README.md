@@ -1,6 +1,10 @@
 Simulation and modeling of Monte Carlo Bombing Problem
+
+
 Group members:
+
 Mehak Jatoi (21sw073)
+
 Zobiya Jumani (21sw140)
 
 This problem demonstrates a Monte Carlo Simulation — a type of static simulation used to estimate probabilities using random sampling. The example models a squadron of bombers attempting to hit an ammunition depot. Each bomb’s landing point is determined by random variations in the horizontal and vertical directions, following a normal distribution.
